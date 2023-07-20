@@ -20,4 +20,4 @@ The StdDraw library is linked [here](https://introcs.cs.princeton.edu/java/stdli
 
 ## Notes
 
-Press R to play again once the game ends.
+Press R to play again once the game is over.
