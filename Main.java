@@ -19,6 +19,7 @@ public class Main {
             if (ticTacToe.isGameOver()) {
                 ticTacToe.drawStrike();
                 StdDraw.show();
+                StdDraw.pause(67);
                 if (StdDraw.isKeyPressed(KeyEvent.VK_R)) {
                     ticTacToe = new TicTacToe();
                 }
